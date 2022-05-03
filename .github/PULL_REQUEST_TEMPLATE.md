@@ -1,29 +1,29 @@
 <!-- 
-     Thanks for your contribution, we appreciate it!
+    Thanks for your contribution, we appreciate it!
 
-     The first section should explain briefly what was changed. 
-     Some examples would are always nice to showcase the use. 
-     The content will be used in the change-logs and release notes
-     and addresses developers working with Neos.
+    The first section should explain briefly what was changed. 
+    Some examples are always nice to showcase the use. 
+    The content will be used in the change-logs and release notes
+    and addresses developers working with Neos.
 
-     If there are issues regarding the topic of your PR link 
-     them here as `related:` or `resolved`
+    If there are issues regarding the topic of your PR link 
+    them here as `related:` or `resolved`
 -->
 
 **Upgrade instructions**
 
 <!-- 
-     Add upgrade instructions for breaking changes. 
-     Explain who is affected, what has to be adjusted  
--->    
+    Add upgrade instructions for breaking changes. 
+    Explain who is affected, what has to be adjusted  
+-->
 
 **Further Explanations (exclude from release notes)**
 
 <!-- 
-     If your change is not explained fully by the first section you can 
-     add more details here to help the reviewers understand the change.
-     We have to understand what you did, why you did it and how we can 
-     verify it works correctly and does no harm.
+    If your change is not explained fully by the first section you can 
+    add more details here to help the reviewers understand the change.
+    We have to understand what you did, why you did it and how we can 
+    verify it works correctly and does no harm.
 -->
 
 **Checklist (exclude from release notes)**
