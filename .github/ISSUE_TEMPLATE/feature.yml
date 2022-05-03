@@ -12,22 +12,22 @@ body:
           required: true
   - type: textarea
     attributes:
-      label: Problem Description
+      label: Description
       description: | 
         Please describe the feature briefly. Try to avoid beeing specific about the solution as there may be more options available.
     validations:
-      required: false
+      required: true
   - type: textarea
     attributes:
       label: Possible Solution
       description: | 
-        If you have an idea how the feature could be implemented describe this here. We may still suggest other solutions but will consider your suggestion.
+        If you already have an idea how the feature could be implemented describe this here. We may still suggest other solutions but will consider your suggestion.
     validations:
       required: false
   - type: markdown
     attributes:
       value: |
         ### Sponsoring / Support ###
-        
+  
         Since we are an open source project we always have to find time for the tasks at hand. 
         By sponsoring you may be able to by the time needed actually work on the feature you need.

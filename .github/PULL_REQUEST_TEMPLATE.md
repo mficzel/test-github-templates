@@ -1,13 +1,13 @@
 <!-- 
     Thanks for your contribution, we appreciate it!
 
-    The first section should explain briefly what was changed. 
+    The first section should explain briefly what is changed. 
     Some examples are always nice to showcase the use. 
-    The content will be used in the change-logs and release notes
-    and addresses developers working with Neos.
+    The content will be used in the change-logs and addresses 
+    developers working with Neos.
 
     If there are issues regarding the topic of your PR link 
-    them here as `related:` or `resolved`
+    them here as `related:` or `resolved:`
 -->
 
 **Upgrade instructions**
@@ -17,7 +17,7 @@
     Explain who is affected, what has to be adjusted  
 -->
 
-**Further Explanations (exclude from release notes)**
+**Review instructions**
 
 <!-- 
     If your change is not explained fully by the first section you can 
@@ -26,7 +26,7 @@
     verify it works correctly and does no harm.
 -->
 
-**Checklist (exclude from release notes)**
+**Checklist**
 
 - [ ] Code follows the PSR-2 coding style
 - [ ] Tests have been created, run and adjusted as needed

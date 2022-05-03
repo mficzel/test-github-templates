@@ -15,36 +15,34 @@ body:
       label: Current Behavior
       description: A concise description of what you're experiencing.
     validations:
-      required: false
+      required: true
   - type: textarea
     attributes:
       label: Expected Behavior
-      description: A concise description of what you expected to happen.
+      description: A concise description of what you expected to happen instead.
     validations:
-      required: false
+      required: true
   - type: textarea
     attributes:
       label: Steps To Reproduce
       description: Steps to reproduce the behavior.
       placeholder: |
-        1. In this environment...
-        2. With this config...
-        3. Run '...'
-        4. See error...
+        To understand your problem faster we need a description how the issue can be
+        reproduced. Please be as specific as possible here, this helps us solving
+        issues faster. Issues that cannot be reproduced are hardly ever fixed.
     validations:
       required: false
   - type: textarea
     attributes:
       label: Environment
       description: |
-        examples:
-          - **OS**: Ubuntu 20.04
-          - **Node**: 13.14.0
-          - **npm**: 7.6.3
+        If you report a bug add the versions of Flow and Neos that you are using. 
+        If you want to be a super-hero, try to find out the oldest supported version
+        affected by the bug you describe. Thanks!
       value: |
-        - OS:
-        - Node:
-        - npm:
+        - Flow: 
+        - Neos: 
+        - PHP:
       render: markdown
     validations:
       required: false
@@ -58,9 +56,9 @@ body:
     validations:
       required: false
   - type: markdown
-      attributes:
-        value: |
-          ### Sponsoring / Support ###
-          
-          Since we are an open source project we always have to find time for the tasks at hand. 
-          By sponsoring you may be able to by the time needed actually work on the feature you need.
+    attributes:
+      value: |
+        ### Sponsoring / Support ###
+        
+        Since we are an open source project we always have to find time for the tasks at hand. 
+        By sponsoring you may be able to by the time needed actually work on the feature you need.
