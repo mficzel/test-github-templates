@@ -14,22 +14,21 @@ body:
     attributes:
       label: Problem Description
       description: | 
-        Please describe the feature briefly. 
-        Try to avoid beeing specific about the solution as there may be more options available.
+        Please describe the feature briefly. Try to avoid beeing specific about the solution as there may be more options available.
     validations:
       required: false
   - type: textarea
     attributes:
       label: Possible Solution
       description: | 
-        If you have an idea how the feature could be implemented describe this here so we
+        If you have an idea how the feature could be implemented describe this here. We may still suggest other solutions but will consider your suggestion.
+      placeholder:
     validations:
       required: false
-  - type: checkboxes
+  - type: markdown
     attributes:
-      label: Sponsoring / Support
-      description: |
-        Since we are an open source project we always have to find time for the tasks at
-        hand. By sponsoring you may be able to by the time needed actually work on the feature you need.
-      options:
-        - label: Contact me about sponsoring this feature.
+      value: |
+        ### Sponsoring / Support ###
+        
+        Since we are an open source project we always have to find time for the tasks at hand. 
+        By sponsoring you may be able to by the time needed actually work on the feature you need.
