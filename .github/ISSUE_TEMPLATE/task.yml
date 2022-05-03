@@ -1,8 +1,8 @@
-name: 🐞 Bug
-description: File a bug/issue
-title: "BUG: <title>"
-labels: [Bug]
-body:
+name: 🔧 Task
+description: File a task/issue
+title: "TASK: <title>"
+labels: [Task]
+body: 
   - type: checkboxes
     attributes:
       label: Is there an existing issue for this?

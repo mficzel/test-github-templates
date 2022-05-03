@@ -1,8 +1,8 @@
-name: 🐞 Bug
+name: 🎁 Feature
 description: File a bug/issue
-title: "BUG: <title>"
-labels: [Bug]
-body:
+title: "FEATURE: <title>"
+labels: [Feature]
+body: 
   - type: checkboxes
     attributes:
       label: Is there an existing issue for this?
