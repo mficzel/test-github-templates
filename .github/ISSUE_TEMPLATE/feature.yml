@@ -1,5 +1,5 @@
-name: 🎁 Feature
-description: Request a new feature
+name: 🎁 Request a new feature
+description: You are missing a feature, please tell us about it
 title: "FEATURE: <title>"
 labels: [Feature]
 body: 

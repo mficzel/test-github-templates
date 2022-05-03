@@ -1,5 +1,5 @@
-name: 🔧 Task
-description: Note a task
+name: 🔧 Plan a task
+description: Something should be adjusted.
 title: "TASK: <title>"
 labels: [Task]
 body: 

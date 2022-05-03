@@ -1,5 +1,5 @@
-name: 🐞 Bug
-description: Report a bug
+name: 🐞 Report a bug
+description: We made a mess, sorry for that and thank you for telling us.
 title: "BUG: <title>"
 labels: [Bug]
 body:
