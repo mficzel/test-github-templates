@@ -1,5 +1,5 @@
 name: 🔧 Task
-description: File a task/issue
+description: Note a task
 title: "TASK: <title>"
 labels: [Task]
 body: 

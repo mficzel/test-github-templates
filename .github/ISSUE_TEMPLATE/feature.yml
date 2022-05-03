@@ -1,5 +1,5 @@
 name: 🎁 Feature
-description: File a bug/issue
+description: Request a new feature
 title: "FEATURE: <title>"
 labels: [Feature]
 body: 

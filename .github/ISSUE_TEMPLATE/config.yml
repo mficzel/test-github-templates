@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: GitHub Community Support
-    url: https://github.community/
-    about: Please ask and answer questions here.
-  - name: GitHub Security Bug Bounty
-    url: https://bounty.github.com/
-    about: Please report security vulnerabilities here.
+  - name: Neos Discuss
+    url: https://discuss.neos.io/
+    about: The Neos forum for questions and discussions
+  - name: Neos Slack
+    url: https://slack.neos.io/
+    about: Direct chat between the Neos creators and users
