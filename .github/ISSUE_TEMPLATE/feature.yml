@@ -22,7 +22,6 @@ body:
       label: Possible Solution
       description: | 
         If you have an idea how the feature could be implemented describe this here. We may still suggest other solutions but will consider your suggestion.
-      placeholder:
     validations:
       required: false
   - type: markdown
